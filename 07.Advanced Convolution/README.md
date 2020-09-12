@@ -27,6 +27,7 @@ The solution to identifying the right architecture that achieves the accuracy of
    Accuracy - 84.09%
 
 **Receptive Field Calculation**
+Total Receptive Field: 64
 
 ![alt text](https://github.com/persie2212/Extensive_Vision_AI/blob/master/07.Advanced%20Convolution/Images/Receptive_field_calculation.jpg)
 
