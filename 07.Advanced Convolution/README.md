@@ -32,7 +32,7 @@ The solution to identifying the right architecture that achieves the accuracy of
 
 colab - https://colab.research.google.com/drive/1OfOze56WU8MOn5pBvDZCYarJ7w83Q5Db#scrollTo=s05iFZ-6-ION
 
-github - https://github.com/persie2212/Extensive_Vision_AI/blob/master/04.Architectural%20Basics/05_Architecture_Optimization.ipynb
+github - 
 
 -------------------
 
