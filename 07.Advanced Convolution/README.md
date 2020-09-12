@@ -14,7 +14,7 @@
 ----
 The solution to identifying the right architecture that achieves the accuracy of more than 80% with less than 1M parameters and in 20 epochs is performed iteratively. 
 
-**Summary of the trials**
+**Summary of the Model**
 
 1. Name: Advanced Convolutions
 
@@ -26,19 +26,23 @@ The solution to identifying the right architecture that achieves the accuracy of
 
    Accuracy - 84.09%
 
+**Receptive Field Calculation**
 
+![alt text](https://github.com/persie2212/Extensive_Vision_AI/blob/master/07.Advanced%20Convolution/Images/Receptive_field_calculation.jpg)
+
+![alt text](https://github.com/persie2212/Extensive_Vision_AI/blob/master/07.Advanced%20Convolution/Images/Receptive_field_graph.jpg)
 
 **Code Link**
 
 colab - https://colab.research.google.com/drive/1OfOze56WU8MOn5pBvDZCYarJ7w83Q5Db#scrollTo=s05iFZ-6-ION
 
-github - 
+github - https://github.com/persie2212/Extensive_Vision_AI/tree/master/07.Advanced%20Convolution
 
 -------------------
 
 **ASK OF THE ASSIGNMENT**    
 
-1.  Refer to this code:  [COLABLINK (links to an external site)](https://colab.research.google.com/drive/1uJZvJdi5VprOQHROtJIHy0mnY2afjNlx)
+1.  Refer to this code:  [COLABLINK (links to an external site)](https://colab.research.google.com/drive/1OfOze56WU8MOn5pBvDZCYarJ7w83Q5Db#scrollTo=s05iFZ-6-ION)
     -  **WRITE IT AGAIN SUCH THAT IT ACHIEVES**  
     1.  change the code such that it uses GPU
 	2.	change the architecture to C1C2C3C40 (basically 3 MPs)
