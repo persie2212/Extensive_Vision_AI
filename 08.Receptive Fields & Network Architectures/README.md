@@ -46,11 +46,9 @@ github - https://github.com/persie2212/Extensive_Vision_AI/tree/master/08.Recept
 
 **ASK OF THE ASSIGNMENT**    
 
-1.  Refer to this code:  [COLABLINK (links to an external site)](https://colab.research.google.com/drive/1uJZvJdi5VprOQHROtJIHy0mnY2afjNlx)
     -  **WRITE IT AGAIN SUCH THAT IT ACHIEVES**  
-    1.  change the code such that it uses GPU
-	2.	change the architecture to C1C2C3C40 (basically 3 MPs)
-	3.	total RF must be more than 44
-	4.	one of the layers must use Depthwise Separable Convolution
-	5.	one of the layers must use Dilated Convolution
-	6.	use GAP (compulsory):- add FC after GAP to target #of classes (optional) achieve 80% accuracy, as many epochs as you want. Total Params to be less than 1M. 
+    1.  Go through this repository: https://github.com/kuangliu/pytorch-cifar
+    2. Extract the ResNet18 model from this repository and add it to your API/repo. 
+    3. Use your data loader, model loading, train, and test code to train ResNet18 on Cifar10
+    4. Your Target is 85% accuracy. No limit on the number of epochs. Use default ResNet18 code (so params are fixed). 
+    5. Once done finish S8-Assignment-Solution. 
