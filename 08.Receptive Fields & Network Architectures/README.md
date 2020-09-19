@@ -23,6 +23,9 @@ Played around with transformation by changing Hue, contrast and brightness and l
 
 1. Name: Resnet Architecture
 
+![alt text](https://github.com/persie2212/Extensive_Vision_AI/blob/master/08.Receptive%20Fields%20%26%20Network%20Architectures/Images/Architecture-of-ResNet-18.png)
+
+
    Description: Added Resnet-18 Archtecture
    Parameters: 11,173,962
 
