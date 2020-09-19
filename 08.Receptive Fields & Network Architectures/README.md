@@ -5,7 +5,7 @@
 <h3 align="center"> Team Members: Prasad, Dheeraj, Rajesh, Vidhya Shankar </h3>
 
 ---
-**Convolutions Architecture that achieves 84.09% accuracy for CIFAR10 dataset**
+**Resnet Architecture that achieves 85% accuracy for CIFAR10 dataset**
 ---
 
 
