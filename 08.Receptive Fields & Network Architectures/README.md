@@ -27,6 +27,7 @@ Played around with transformation by changing Hue, contrast and brightness and l
 
 
    Description: Added Resnet-18 Archtecture
+   
    Parameters: 11,173,962
 
    number of Epochs - 20
