@@ -1,6 +1,6 @@
 <h1 align="center">Extensive Vision AI (EVA5)</h1>
 
-<h2 align="center">Assignment- Advanced Convolutions</h2>
+<h2 align="center">Assignment- Receptive Fields & Network Architectures</h2>
 
 <h3 align="center"> Team Members: Prasad, Dheeraj, Rajesh, Vidhya Shankar </h3>
 
@@ -12,27 +12,31 @@
 
 **APPROACH AND SOLUTION**
 ----
-The solution to identifying the right architecture that achieves the accuracy of more than 80% with less than 1M parameters and in 20 epochs is performed iteratively. 
+The solution to incorporate the resnet architecture that achieves the accuracy of more than 85% accuracy
+
+Steps:
+Added Resnet module from https://github.com/kuangliu/pytorch-cifar. Achieved 84% accuracy. 
+Played around with transformation by changing Hue, contrast and brightness and learning rate. Reached 86% accuracy. 
+
 
 **Summary of the trials**
 
-1. Name: Advanced Convolutions
+1. Name: Resnet Architecture
 
-   Description: Added Gap, Diluted covolution and deprthwise convolution
-
-   Parameters: 604K
+   Description: Added Resnet-18 Archtecture
+   Parameters: 11,173,962
 
    number of Epochs - 20
 
-   Accuracy - 84.09%
+   Accuracy - 86.54%
 
 
 
 **Code Link**
 
-colab - https://colab.research.google.com/drive/1OfOze56WU8MOn5pBvDZCYarJ7w83Q5Db#scrollTo=s05iFZ-6-ION
+colab - https://colab.research.google.com/drive/15Yqmey9PzMehxAF93R0COZEvCNxNIJDj#scrollTo=zbpEilw-vNCY
 
-github - https://github.com/persie2212/Extensive_Vision_AI/blob/master/04.Architectural%20Basics/05_Architecture_Optimization.ipynb
+github - https://github.com/persie2212/Extensive_Vision_AI/tree/master/08.Receptive%20Fields%20%26%20Network%20Architectures
 
 -------------------
 
