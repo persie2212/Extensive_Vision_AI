@@ -1,6 +1,6 @@
 <h1 align="center">Extensive Vision AI (EVA5)</h1>
 
-<h2 align="center">Assignment- Receptive Fields & Network Architectures </h2>
+<h2 align="center">Assignment- Superconvergence </h2>
 
 <h3 align="center"> Team Members: Prasad, Dheeraj, Rajesh, Vidhya Shankar </h3>
 
